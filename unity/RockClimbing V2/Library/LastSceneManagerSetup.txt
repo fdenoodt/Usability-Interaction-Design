@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Oculus/Avatar/Samples/Controllers/Controllers.unity
+  isLoaded: 1
+  isActive: 1
